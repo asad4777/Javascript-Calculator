@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="navbar">
+        <h1>MATH CALCULATOR</h1>
+    </div>
+<div class="abc">
+    <div class="css-input">
+        <input disabled  type="text" style="font-weight: bold; font-size: large; padding: 2px 20px; resize:horizontal; background-color: yellow; width:550px; height: 50px; margin-right: 100px; border-radius: 10px;" id="inp">
+    </div>
+    <div class="numb1">
+        <button class="btn7" onclick="foo(7)">7</button>
+        <button class="btn8" onclick="foo(8)">8</button>
+        <button class="btn9" onclick="foo(9)">9</button>
+        <button class="btnplus" onclick="foo('+')">+</button>
+    </div>
+    <div class="numb2">
+        <button class="btn4" onclick="foo(4)">4</button>
+        <button class="btn5" onclick="foo(5)">5</button>
+        <button class="btn6" onclick="foo(6)">6</button>
+        <button class="btnmainus" style="font-size: 20px;" onclick="foo('-')">-</button>
+    </div>
+    <div class="numb3">
+        <button class="btn1" onclick="foo(1)">1</button>
+        <button class="btn2" onclick="foo(2)">2</button>
+        <button class="btn3" onclick="foo(3)">3</button>
+        <button class="btndivide" onclick="foo('/')">/</button>
+    </div>
+    <div class="numb4">
+        <button class="btn0" onclick="foo(0)">0</button>
+        <button class="btnX" onclick="foo('*')">X</button>
+        <button class="btndot" style="font-weight: bolder; font-size: large;" onclick="foo('.')">.</button>
+        <button class="btnequal"onclick="res()">=</button>
+    </div>
+    <div class="button-container-div">
+        <button style="height: 50px; width: 100px; border-radius: 10px;" onclick="cler()">Clear</button>
+    </div>
+    <h1 class="asad">Build By Asad Hussain</h1>
+
+</div>
+</div>
+
+<div>
+    <script src="index.js"></script>
+</body>
+</html>

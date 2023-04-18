@@ -1,0 +1,251 @@
+body {
+    background-color: #515A5A;
+}
+
+.abc {
+    text-align: center;
+
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    font-size: 20px
+    
+}
+.asad{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px ;
+    color: azure;
+    border: solid 1px gray ;
+    border-style: dashed;
+    border-width: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  ;
+}
+
+.button-container-div {
+    text-align: center;
+    margin-right: 100px;
+}
+
+.css-input {
+    margin: 30px;
+    
+}
+
+.numb1 {
+    padding-bottom: 10px;
+
+}
+
+.numb2 {
+    padding-bottom: 10px;
+}
+
+.numb3 {
+    padding-bottom: 10px;
+}
+
+.numb4 {
+    padding-bottom: 10px;
+}
+
+.btn7 {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btn7 {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btn8 {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btn9 {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btn4 {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btn5 {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btn6 {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btn1 {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btn2 {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btn3 {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btnplus {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btnmainus {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btndivide {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btn0 {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btnX {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btndot {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btnequal {
+    margin-right: 98px;
+    width: 60px;
+    height: 60px;
+}
+
+.btn9:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.btn8:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.btn7:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.btn6:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.btn5:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.btn4:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.btn3:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.btn2:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.btn1:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.btn0:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.btnplus:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.btnmainus:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.btndivide:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.btndot:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.btnX:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.btnequal:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
